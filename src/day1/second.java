@@ -10,4 +10,7 @@ public class second {
     // test 1 done
     // test 2 done
     // work done
+    // created starter class for us 100
+    // finished part 1
+    // finished the whole story 100
 }
