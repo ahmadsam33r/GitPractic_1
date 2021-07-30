@@ -7,6 +7,7 @@ public class Conflict {
     // I can type anything i want here
     // and it will become final merge result
     // This is collection brach content
+    // more work on collection2
 
 
 
